@@ -18,5 +18,5 @@ if ($uri !== '/' and file_exists($requested))
 
 require_once $paths['public'].'/index.php';
 
-//jan 16, 2015 comment
+//jan 16, 2015 comment ko to from gian
 //this is a comment
